@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { useRouter } from 'next/router';
-import Image from 'next/image';
 import Navbar from '@/components/Navbar';
 import Card from '@/components/Card';
 import { cardData } from './cardData';
